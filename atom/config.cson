@@ -1,0 +1,12 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "atom-light-ui"
+      "one-light-syntax"
+    ]
+  editor:
+    showInvisibles: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "92f92853-d7e5-48d1-b268-ce058b11e1f6"
