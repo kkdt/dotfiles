@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=idea
+Comment=jetbrains-idea-ce
+Exec=/home/thinh/Lib/idea-IC-213.6461.79/bin/idea.sh
+Icon=/home/thinh/.local/share/icons/intellij-macos-bigsur-512px.png
+Terminal=false
