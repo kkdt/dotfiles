@@ -5,3 +5,4 @@ dev
 .node-gyp
 nohup.out
 .atom-socket-secret*
+blob-store/
