@@ -1,0 +1,6 @@
+caches/
+daemon/
+native/
+notifications/
+.tmp/
+wrapper/
